@@ -15,5 +15,6 @@ Next press **Q** for Dump  or **L** for Load
 > 0147  20 6A 1F    JSR KEYIN instead of GETKEY <br>
 > 014A  D0 FB       BNE 0147<BR>
 > 014C  EA EA       NOPS to fil previous<br>
+ the program will now wait at the end of a line .
 ---
  - If you want to Load  into memory after pressing L start inserting hex code with or without spaces. they are ignored. Press ESC to end
