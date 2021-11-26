@@ -9,7 +9,7 @@ enter the address you want to write in or read from and press (SPACE) <br>
 Next press **Q** for Dump  or **L** for Load
 
 ---
- - If you Dump a memory area, the programm will print out the mem from the adress onwards and ir will only stop if you hit a key on the KEYPAD
+ - If you Dump a memory area, the programm will print out the mem from the adress onwards and ir will only stop if you hit a key on the KEYPAD<br>
   to change this behaviour change location 
 
 > 0147  20 6A 1F    JSR KEYIN instead of GETKEY <br>
