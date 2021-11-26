@@ -5,7 +5,7 @@ Located in Compute II June 1980
 
 Usage
 Start at 0100
-enter the Adress you want to write in or read from and press (SPACE)
+enter the address you want to write in or read from and press (SPACE)
 Press Q (Dump) or L (Load)
 
 ---
