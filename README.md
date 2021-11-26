@@ -6,7 +6,7 @@ Located in Compute II June 1980
 Usage
 Start at 0100
 enter the address you want to write in or read from and press (SPACE) <br>
-Next press Q for Dump  or L for Load
+Next press **Q** for Dump  or **L** for Load
 
 ---
  - If you Dump a memory area, the programm will print out the mem from the adress onwards and ir will only stop if you hit a key on the KEYPAD
